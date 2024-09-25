@@ -33,10 +33,10 @@ Blink prioritizes ease of use while maintaining a visually appealing interface. 
 
 ## Demo and Resources
 #### To see **Blink** in action, check out the video below:
+https://github.com/user-attachments/assets/f7fb15cf-aca4-480b-bdfc-d65f2da8c88e
 
 
-
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_cognoriseinfotech-internship-dart-activity-7244754992190935042-p-9Q?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
