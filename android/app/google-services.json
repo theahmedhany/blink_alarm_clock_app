@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954411124760",
+    "project_id": "blink-alarm-clock-app",
+    "storage_bucket": "blink-alarm-clock-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954411124760:android:e77840df21e122179ddb6d",
+        "android_client_info": {
+          "package_name": "com.example.blink_alarm_clock_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTpOjeXSMTOVPu7VAbZG_osFmHx9PRDeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
